@@ -37,6 +37,59 @@
           "DeletedTS": null
         }
   ],
+  "prcharacters": [
+    {
+		"id": 1,
+		"GameCharacterId": 1,
+		"PRItemId": 1,
+		"ModifiedTS": null,
+		"CreatedTS": "2020-01-19 20:12:04"
+	},
+	{
+		"id": 2,
+		"GameCharacterId": 2,
+		"PRItemId": 2,
+		"ModifiedTS": null,
+		"CreatedTS": "2020-01-19 20:12:04"
+	},
+	{
+		"id": 3,
+		"GameCharacterId": 2,
+		"PRItemId": 3,
+		"ModifiedTS": null,
+		"CreatedTS": "2020-01-19 20:12:04"
+	},
+	{
+		"id": 4,
+		"GameCharacterId": 3,
+		"PRItemId": 3,
+		"ModifiedTS": null,
+		"CreatedTS": "2020-01-19 20:12:04"
+	}
+  ],
+  "gamecharacters": [
+	{
+		"id": 1,
+		"Name": "jigglypuff",
+		"Game": "Melee",
+		"ModifiedTS": null,
+		"CreatedTS": "2020-01-19 20:12:00"
+	},
+	{
+		"id": 2,
+		"Name": "fox",
+		"Game": "Melee",
+		"ModifiedTS": null,
+		"CreatedTS": "2020-01-19 20:12:00"
+	},
+	{
+		"id": 3,
+		"Name": "falco",
+		"Game": "Melee",
+		"ModifiedTS": null,
+		"CreatedTS": "2020-01-19 20:12:00"
+	},
+  ],
   "profile": {
     "name": "Pakkanen1"
   }
